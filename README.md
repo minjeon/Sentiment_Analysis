@@ -8,5 +8,9 @@
 
 
 ## 🔸 실행 파일
+**practice.ipynb**
 
 ## 🔸 실행 결과
+
+<img width="769" height="129" alt="image" src="https://github.com/user-attachments/assets/1a0c8965-c5b3-4e7a-a124-1df6ea17eeb1" />
+
